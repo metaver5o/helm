@@ -1,2 +1,2 @@
 # helm
-** storing helm charts **
+**storing helm charts**
